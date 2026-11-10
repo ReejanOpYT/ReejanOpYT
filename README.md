@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Reejan!;Frontend+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Auditive+%F0%9F%8E%A7;Learning+Backend+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Reejan!;Frontend+Developer++Full+Stack+Developer+%F0%9F%87%B3%F0%9F%87%B5;Building+Auditive+%F0%9F%8E%A7;Learning+Backend+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ReejanOpYT&label=Profile+Views&color=00d4ff&style=flat-square)
@@ -15,8 +15,8 @@
 
 ```yaml
 name: Reejan
-location: Nepal 🇳🇵
-role: Frontend Developer
+From: Nepal 🇳🇵
+role: Frontend Developer + Full Stack Developer
 currently_building: Auditive 🎧
 currently_learning: Backend Development
 portfolio: https://reejanexe.bond
